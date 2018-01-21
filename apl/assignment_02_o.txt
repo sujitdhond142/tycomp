@@ -1,0 +1,104 @@
+Program menu
+1.Built-in functions
+2.Functions with default arguments
+3.Functions with multiple return values
+4.Lists
+5.Tuples
+6.Dictionaries
+
+Enter yout choice :
+1
+Enter any number 12
+Enter a string gcoej
+Entered number :  12
+Entered string :  gcoej
+Do you want to continue (y/n)
+y
+Program menu
+1.Built-in functions
+2.Functions with default arguments
+3.Functions with multiple return values
+4.Lists
+5.Tuples
+6.Dictionaries
+
+Enter yout choice :
+2
+No of  e in  some text  :  2
+No of  e in  some text  :  2
+No of  e in  some TEXT  :  1
+Do you want to continue (y/n)
+y
+Program menu
+1.Built-in functions
+2.Functions with default arguments
+3.Functions with multiple return values
+4.Lists
+5.Tuples
+6.Dictionaries
+
+Enter yout choice :
+3
+Given array :  [7, 8, 3, 2, 5, 6]
+min :  2  max :  8
+Do you want to continue (y/n)
+y
+Program menu
+1.Built-in functions
+2.Functions with default arguments
+3.Functions with multiple return values
+4.Lists
+5.Tuples
+6.Dictionaries
+
+Enter yout choice :
+4
+List created
+[6, 7, 2, 4, 5]
+No of items in list :  5
+3 appended at end of list
+[6, 7, 2, 4, 5, 3]
+4 deleted from list
+[6, 7, 2, 5, 3]
+Do you want to continue (y/n)
+y
+Program menu
+1.Built-in functions
+2.Functions with default arguments
+3.Functions with multiple return values
+4.Lists
+5.Tuples
+6.Dictionaries
+
+Enter yout choice :
+5
+color as tuple :  (123, 45, 67)
+Changing value of tuple
+Error : 'tuple' object does not support item assignment
+Another color as tuple :  (77, 88, 99)
+Value of red color :  77
+Value of green color :  88
+Value of blue color :  99
+Do you want to continue (y/n)
+y
+Program menu
+1.Built-in functions
+2.Functions with default arguments
+3.Functions with multiple return values
+4.Lists
+5.Tuples
+6.Dictionaries
+
+Enter yout choice :
+6
+dictionay created
+{'harish': 4098, 'vihaan': 4139}
+chetana added to dictionay
+{'harish': 4098, 'vihaan': 4139, 'chetana': 4127}
+Marks of harish :  4098
+vihaan deleted from dictionary
+Names from dictionaries :  dict_keys(['harish', 'chetana'])
+Marks from dictionaries :  dict_values([4098, 4127])
+Is chetana in dictionary :  True
+Do you want to continue (y/n)
+n

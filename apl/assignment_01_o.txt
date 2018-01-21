@@ -1,0 +1,232 @@
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+1
+Enter your number 25
+Square root of no is : 5.0
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+2
+Enter width of rectangle : 12
+Enter height of rectangle : 8
+Area of rectangle is :  96
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+3
+Enter first no. : 12
+Enter second no. : 14
+After swap
+First no is :  14
+Second no is:  12
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+4
+Data structure
+List
+[1, 'two', 3]
+Tuple
+(4, 'five', 6)
+Dictionary
+{1: 'one', 2: 'two', 3: 'three'}
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+5
+Enter number 12
+Number is even
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+6
+Enter first no : 4
+Enter second no : 2
+Enter third no : 3
+Greatest no is :  4
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+7
+Enter year : 2016
+It's a leap year
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+8
+Enter a no : 6
+fibonacci series :
+1
+1
+2
+3
+5
+8
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+9
+I am in while loop
+I am in while loop
+I am in while loop
+I am in while loop
+I am in while loop
+I am in while loop
+I am in else loop
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+10
+Enter your range : 10
+Prime nos in given range :  4
+Do you want to continue (y/n)
+y
+Program menu
+1.Find square root of no :
+2.Find area of rectangle :
+3.Swap two nos :
+4.data structures: list,dictonaries,tuples
+5.Find no is even or odd
+6.Largest among three no.s
+7.Check if year is leap or not
+8.Fibonacci Sequence
+9.While loop
+10.Prime no upto n nos:
+11.Perform operations on word "govenrmentcollege"
+
+Enter any no.
+11
+Second letter of word is :  o
+First four letters are :  gove
+Last six letters are : ollege
+Do you want to continue (y/n)
+n
