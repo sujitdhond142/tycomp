@@ -1,0 +1,43 @@
+Program menu
+1.File uppercase
+2.Functions with default arguments
+3.Print Time
+
+Enter yout choice :
+1
+Enter full filename
+file.txt
+THIS IS FILE ENDING
+
+THIS IS FILE WITH LINES
+
+THIS IS NEXT LINE
+
+THIS IS SHORTEST
+
+THIS IS THE LONGEST LINE OF FILE
+
+Do you want to continue (y/n)
+y
+Program menu
+1.File uppercase
+2.Functions with default arguments
+3.Print Time
+
+Enter yout choice :
+2
+Enter full filename
+file.txt
+File sorted.
+Do you want to continue (y/n)
+y
+Program menu
+1.File uppercase
+2.Functions with default arguments
+3.Print Time
+
+Enter yout choice :
+3
+Thu Jan 25 13:57:55 IST 2018
+Do you want to continue (y/n)
+n
